@@ -15,8 +15,8 @@ const Story = () => {
   };
 
   return (
-    <div className="container mx-auto">
-      <div className="box_ bg-black bg-opacity-95 text-white pb-3 pt-3 pl-3 border">
+    <div className="mx-auto">
+      <div className="box_ bg-black bg-opacity-85 text-white pb-3 pt-3 pl-3">
         <Slider {...settings}>
           <div className="story_">
             <div className="picture size-14 border-2 rounded-full ml-1">
